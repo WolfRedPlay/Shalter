@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7ad6c26d01476946a79695a2e9ff4c4, type: 3}
+  m_Name: HealthCard 22
+  m_EditorClassIdentifier: 
+  cardName: "\u0424\u0440\u0438\u0433\u0438\u0434\u043D\u043E\u0441\u0442\u044C/\u0438\u043C\u043F\u043E\u0442\u0435\u043D\u0446\u0438\u044F"
+  cardType: 2
+  icon: {fileID: 21300000, guid: 6dae05511e88a8b4b92f8abcc8cc8e2e, type: 3}
+  fertile: 1

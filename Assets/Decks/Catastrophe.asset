@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fb4689b15fabc449a701fa565a867d2, type: 3}
+  m_Name: Catastrophe
+  m_EditorClassIdentifier: 
+  AllCards:
+  - {fileID: 11400000, guid: 04269552b30b74d41a78d70164bd46ea, type: 2}
+  - {fileID: 11400000, guid: f795d437b29932e4a833931237e22dbd, type: 2}
+  - {fileID: 11400000, guid: 3bae5058c8c61c249afd1dfb27be9494, type: 2}
+  - {fileID: 11400000, guid: 0650b489adcf60e4b9c19040244f0389, type: 2}
+  - {fileID: 11400000, guid: 52ff751b7fdb7914483400b5819f55c3, type: 2}
+  - {fileID: 11400000, guid: 978fec5f156d67d4d91ba92a581bc26b, type: 2}
+  - {fileID: 11400000, guid: 1f3db78967f0c554184bfdd4b1333fb8, type: 2}
+  - {fileID: 11400000, guid: 4b39afa2a5d50c14bbd05126b4fd1853, type: 2}
+  - {fileID: 11400000, guid: cc739c26ee1a97642938b6cffc165f50, type: 2}
+  - {fileID: 11400000, guid: 36698580f26fb074fac446cf3b5b534c, type: 2}
+  - {fileID: 11400000, guid: 71098b045a6d0674fbf267c5df3719b0, type: 2}
+  - {fileID: 11400000, guid: 56d74704a24b5a84787286694c9455e8, type: 2}
+  - {fileID: 11400000, guid: 34cf8d38b04cbc64d8caefb60b3dc21f, type: 2}
+  - {fileID: 11400000, guid: 590bd6a052585504c9ecb87dafc16479, type: 2}
+  - {fileID: 11400000, guid: 58e4b9d17467c6c42bc8f8e04d646eab, type: 2}
+  - {fileID: 11400000, guid: 7fddd8c610002684fa435d09f392ed00, type: 2}
+  - {fileID: 11400000, guid: 8f6886a3385456a4eaa034e16c7bbd9c, type: 2}
+  - {fileID: 11400000, guid: 1d691e8500fdcfb45ab922af200690a9, type: 2}
+  - {fileID: 11400000, guid: d521de615dddcd043944ff01d0a76340, type: 2}
+  - {fileID: 11400000, guid: d4015f746fd04694ca5bee09348767b0, type: 2}
